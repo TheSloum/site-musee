@@ -1,0 +1,79 @@
+.region-footer-start {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 100px;
+    padding-bottom: 240px;
+}
+
+.region-footer-end {
+    background-color: white;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+}
+
+.block-title {
+    font-family: 'Roboto';
+    text-transform: uppercase;
+    font-size: 20px;
+    margin-bottom: 56px;
+}
+
+.sociallogo img {
+    width: 97px;
+    height: 100px;
+    margin-bottom: 42px;
+}
+
+.linkfooter a {
+    display: inline-block;
+    font-family: 'Roboto';
+    color: white;
+    margin-bottom: 42px;
+}
+
+.autoscroll {
+    margin-bottom: 0px;
+    margin-top: 126px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.region-footer-end-part1 {
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.mentionlegal {
+    padding-left: 70px;
+}
+
+.credit {
+    padding-left: 70px;
+} 
+
+
+.region-footer-end-part2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logometropolerouen {
+    width: 111px;
+    height: 90px;
+    padding-right: 70px;
+}
+
+.logorouen {
+    width: 142px;
+    height: 174px;
+    padding-right: 70px;
+}
+
