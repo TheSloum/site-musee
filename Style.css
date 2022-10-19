@@ -40,6 +40,7 @@ a{
     align-self: center;
     justify-self: center;
     margin: auto;
+    filter: brightness(100%);
 }
 
 .Acceuil p{
@@ -50,7 +51,7 @@ a{
     position: absolute;
     left: 20vh;
     bottom: 10vh;
-
+    
 }
 
 section{
@@ -61,8 +62,7 @@ section{
     filter: brightness(70%);
 }
 
-.Acceuil
-{
+.Acceuil{
     height: 100%;
     display: flex;
     justify-content: center;
