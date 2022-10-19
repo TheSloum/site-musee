@@ -1,0 +1,72 @@
+h2{
+    color: rgb(0, 0, 0);
+    font-family: 'Lora';
+    font-size: 70px;
+    max-width: 1000px;
+    margin: 172px;
+}
+
+p{
+    color: #8A8A8A;
+    font-family: 'Roboto';
+    font-size: 40px;
+    max-width: 1100px;
+    margin: 172px;
+}
+
+h3{
+    color: #8A8A8A;
+    font-family: 'Roboto';
+    font-size: 40px;
+    font-weight: 400;
+    margin: 172px;
+}
+
+a{
+    color: #8A8A8A;
+    font-family: 'Roboto';
+    font-size: 40px;
+    font-weight: 400;
+    margin: 172px;
+
+}
+
+.grandtitre{
+    color: rgb(255, 255, 255);
+    font-family: 'Lora';
+    font-size: 60px;
+    width: 600px;
+    text-align: center; 
+    align-self: center;
+    justify-self: center;
+    margin: auto;
+}
+
+.Acceuil p{
+    margin: 0;
+    font-family: 'Roboto';
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    left: 20vh;
+    bottom: 10vh;
+
+}
+
+section{
+    background-image: url("Images/musée-fond-page.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    filter: brightness(70%);
+}
+
+.Acceuil
+{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
